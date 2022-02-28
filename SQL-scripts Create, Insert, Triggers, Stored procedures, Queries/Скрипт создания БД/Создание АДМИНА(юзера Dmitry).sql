@@ -1,0 +1,2 @@
+EXECUTE New_User N'Dmitry', N'dmshakhov@gmail.com', 1234, Shakhov, Dmitry, Russia, 89998594521, N'https://wallpaperscraft.com/image/basketball_michael_jordan_nba_kobe_bryant_93712_3840x2400.jpg', 'Admin';
+SELECT * FROM [User]; 
